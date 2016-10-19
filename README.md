@@ -12,16 +12,16 @@ El ejemplo a sido extraído de siguiente [enlace][1].
 _Hypertext markup language_ Se emplea para hacer páginas web, puede ser complementado por _css_ para enriquecerlo y darle una estructura mas favorable. **Es un estandar de _[W3C](https://www.w3.org/)_**.   
 El ejemplo a sido extraído del siguiente [enlace][1].
 ### _**PS**_  
-_Postscript_ es un lenguaje de descripción empleado por las impresoras.  
+_Postscript_ es un lenguaje de descripción **empleado por las impresoras**.  
 Para poder ver el archivo me descargué e instalé el programa _gsview_ que recomendaron en el foro del curso.
    El ejemplo a sido extraído del siguiente [enlace][1].  
    
 ### _**RTF**_
-_Rich Text Format_ la mayoría de procesadores de texto pueden leer y escribir en este formato.  
+_Rich Text Format_ la **mayoría de procesadores de texto pueden leer y escribir** en este formato.  
 Para ver el archivo empleé _Microsoft Word_.
    El ejemplo a sido extraído del siguiente [enlace][1].
 ### _**XML**_
-_Extensible markup language_ permite definir lenguajes de marcas.    
+_Extensible markup language_ **permite definir** lenguajes de marcas.    
 El ejemplo a sido extraído del siguiente [enlace][2].
 >Este ejemplo es el único extraido fuera del contenido entregado por el profesor.  
 
