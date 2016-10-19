@@ -9,7 +9,7 @@
 **Hoja de estilo en cascada** _ cascading style sheets_ es un lenguaje usado para **definir** y **crear** la presentación de un documento estructurado escrito en HTML o XML. El archivo _css_ que he subido al repositorio ha sido copiado del pdf, y ne es referido a ningún .html.    
 El ejemplo a sido extraído de siguiente [enlace][1].
 ### _**HTML**_
-_Hypertext markup language_ Se emplea para hacer páginas web, puede ser complementado por _css_ para enriquecerlo y darle una estructura mas favorable. **Es un estandar de _W3C_**.   
+_Hypertext markup language_ Se emplea para hacer páginas web, puede ser complementado por _css_ para enriquecerlo y darle una estructura mas favorable. **Es un estandar de _[W3C](www.w3.org)_**.   
 El ejemplo a sido extraído del siguiente [enlace][1].
 ### _**PS**_  
 Postscript es un lenguaje de descripción empleado por las impresoras.  
